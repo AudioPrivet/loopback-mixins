@@ -1,0 +1,15 @@
+{
+  "name": "loopback-mixins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.intersol.pro:grattis3/loopback-mixins.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
