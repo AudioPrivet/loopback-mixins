@@ -11,5 +11,8 @@
     "url": "git@git.intersol.pro:grattis3/loopback-mixins.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
 }
